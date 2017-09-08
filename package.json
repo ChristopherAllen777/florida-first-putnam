@@ -1,0 +1,19 @@
+{
+  "name": "florida-first-putnam",
+  "version": "1.0.0",
+  "description": "Microsite for Adam Putnam",
+  "main": "fl-first-home.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristopherAllen777/florida-first-putnam.git"
+  },
+  "author": "Chris Allen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristopherAllen777/florida-first-putnam/issues"
+  },
+  "homepage": "https://github.com/ChristopherAllen777/florida-first-putnam#readme"
+}
